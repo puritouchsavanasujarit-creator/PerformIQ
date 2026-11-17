@@ -1,0 +1,6 @@
+{
+  "name": "PerformIQ — ระบบวัดผลและวิเคราะห์ประสิทธิภาพการทำงาน",
+  "description": "ระบบประมวลผลข้อมูลอัตโนมัติสำหรับวัดผลการทำงาน วิเคราะห์คอขวด ระบุปัญหา แนวทางแก้ไข และแผนการปรับปรุงพร้อมกราฟเชิงลึก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
